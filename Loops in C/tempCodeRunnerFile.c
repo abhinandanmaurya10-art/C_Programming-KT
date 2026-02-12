@@ -1,0 +1,1 @@
+   printf("Factorial of given numbeer is: %d\n", fact);
